@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Poppins:wght@300;400;500;600&display=swap');
+body{
+    background-color: black;
+    margin:0;
+    height:100%;
+    overflow:hidden;
+    background-image: url(images/home-img.jpeg);
+    background-size: cover;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+.logo_nav{
+    position: absolute;
+    top: 0.5rem;
+    left: 40rem; 
+}
+hr{
+    position: absolute;
+    top: 4rem;
+    width: 100%;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-size: 3.4rem;
+}
+.orderBtn{
+    margin-left: 4rem;
+    width: 10rem;
+    height: 3.5rem;
+    background-color: #D3AD7F;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    cursor: pointer;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<!DOCTYPE note SYSTEM "attributes.dtd">
+<data>
+    <navbar>
+        <heading> SumitSoftwares </heading>
+    </navbar>
+    <slogan>People Behind Our Suceess</slogan>
+    <employees>
+        <card>
+         <details>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+            <img src="https://www.sumitkuldharan.ml/assets/images/home_01/1.jpg"
+            style="width:200px;height:200px;" />                                                  
+            </html>
+            <name>Sumit Kuldharan</name>
+            <designation>Founder</designation>
+        </details>
+        </card>
+
+        <card>
+         <details1>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+            <img src="https://firebasestorage.googleapis.com/v0/b/trialnoti-d32c6.appspot.com/o/nillesh.jpg?alt=media&amp;token=7c682950-d5da-464f-aa11-0224fc72ccca"
+            style="width:200px;height:200px;" />                                                  
+            </html>
+            <name>Nilesh Kamble</name>
+            <designation>CEO</designation>
+        </details1>
+        </card>
+
+        <card>
+         <details>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+            <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFw-dLwdS5Mww/profile-displayphoto-shrink_800_800/0/1646032076676?e=1654128000&amp;v=beta&amp;t=guBHDLZutMd-n0UdaDCr-y-m5CSOmVDIhsZTGHagAzg"
+            style="width:200px;height:200px;" />                                                  
+            </html>
+            <name>Mohit Bhavsar</name>
+            <designation>CTO</designation>
+        </details>
+        </card>
+
+        <card>
+         <details1>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQELZlzPANxWsA/profile-displayphoto-shrink_800_800/0/1628785618499?e=1654128000&amp;v=beta&amp;t=9j3RYLl1zFfKXrDx245jWD9DCd4TvFiC8lYXI8u_GQ8"
+            style="width:200px;height:200px;" />                                                  
+            </html>
+            <name>Pratik Kate</name>
+            <designation>COO</designation>
+        </details1>
+        </card>
+    </employees>
+</data>  

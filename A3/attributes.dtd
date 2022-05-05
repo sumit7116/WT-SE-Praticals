@@ -1,0 +1,6 @@
+<!ELEMENT data(heading,slogan,employees)>
+<!ELEMENT employees(card)>
+<!ELEMENT employees(name,designation)>
+<!ELEMENT navbar(heading)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT slogan (#PCDATA)>
